@@ -1,2 +1,2 @@
-print("hi")
-print("HI")
+number = 777
+print(number)
